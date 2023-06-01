@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.331,C:\Users\alex\MikrotikConfig\dist\Unit1.dfm=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.609,C:\Users\alex\MikrotikConfig\dist\Project2.cbproj=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.356,=C:\Users\alex\MikrotikConfig_2\dist\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,=C:\Users\alex\MikrotikConfig\dist\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,=C:\Users\alex\MikrotikConfig_2\dist\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.981,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.168,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,C:\Users\alex\MikrotikConfig\dist\Unit1.cpp=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,=C:\Users\alex\MikrotikConfig_2\dist\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,=C:\Users\alex\MikrotikConfig_2\dist\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.423,C:\Users\alex\MikrotikConfig\dist\Project2PCH1.h=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.510,=C:\Users\alex\MikrotikConfig\dist\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.644,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,C:\Users\alex\MikrotikConfig\dist\Unit1.h=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023.04.14 16:21:57.466,=C:\Users\alex\MikrotikConfig_2\dist\Unit7.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
